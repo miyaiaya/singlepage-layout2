@@ -58,3 +58,6 @@ body {
 .button-showy {
   background-color: #f1b400;
 }
+.buttons .button {
+  margin: 10px;
+}
