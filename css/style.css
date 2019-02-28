@@ -61,3 +61,8 @@ body {
 .buttons .button {
   margin: 10px;
 }
+.about {
+  padding: 80px 30px;
+  background-color: #fff;
+  color: #333;
+}
