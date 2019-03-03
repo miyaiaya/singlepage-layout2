@@ -316,4 +316,10 @@ body {
   .skill-text {
     margin: 0;
   }
+    .contact-form {
+    width: 80%;
+  }
+  .contact {
+    padding-bottom: 80px;
+  }
 }
