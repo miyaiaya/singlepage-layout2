@@ -297,4 +297,12 @@ body {
   .skill-box {
     display: block;
   }
+  .skill-icon {
+    width: 100px;
+    height: 100px;
+    font-size: 5rem;
+  }
+  .skill-icon::before {
+    line-height: 92px;
+  }
 }
