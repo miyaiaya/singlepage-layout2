@@ -258,4 +258,11 @@ body {
   .site-title-sub {
     font-size: 1.7rem;
   }
+  .site-title {
+    margin-top: 35px;
+    font-size: 5rem;
+  }
+  .header{
+    padding-top: 60px;
+  }
 }
