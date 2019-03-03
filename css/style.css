@@ -170,4 +170,9 @@ body {
 .work-box:nth-child(odd)::after {
   top: 0;
   }
+.skill {
+  padding: 80px 0;
+  background-color: #fff;
+  color: #333;
+}
 
