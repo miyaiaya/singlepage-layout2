@@ -249,6 +249,9 @@ body {
   font-size: 1.3rem;
 }
 @media(max-width: 768px){
+  body{
+    font-size: 1.3rem;
+  }
   .site-title-sub::before,
   .site-title-sub::after{
     display: block;
@@ -267,5 +270,11 @@ body {
   }
   .button:hover {
     opacity: 1;
+  }
+  .heading {
+    font-size: 2.5rem;
+  }
+  .about-text {
+    line-height: 1.8;
   }
 }
