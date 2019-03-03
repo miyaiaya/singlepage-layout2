@@ -305,4 +305,10 @@ body {
   .skill-icon::before {
     line-height: 92px;
   }
+  .skill-box {
+    margin: 40px 0;
+  }
+  .skill-text {
+    margin: 0;
+  }
 }
