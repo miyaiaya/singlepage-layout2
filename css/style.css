@@ -265,4 +265,7 @@ body {
   .header{
     padding-top: 60px;
   }
+  .button:hover {
+    opacity: 1;
+  }
 }
