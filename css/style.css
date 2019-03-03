@@ -293,4 +293,8 @@ body {
     background-size: cover;
     transform: none;
   }
+  .skills-wrapper,
+  .skill-box {
+    display: block;
+  }
 }
